@@ -44,6 +44,10 @@
    - Selecione o arquivo **`database.sql`** (que está na raiz do projeto)
    - Clique em **"Executar"**
    - Aguarde a mensagem de sucesso
+   
+   ⚠️ **ATENÇÃO**: Se aparecer erro "Access denied for user to database", ignore! 
+   Isso acontece porque a primeira linha do SQL tenta criar o banco (que você já criou no Passo 1).
+   As tabelas serão criadas normalmente mesmo com esse aviso.
 
 ### Passo 3: Configurar o Arquivo config.php
 
