@@ -62,9 +62,9 @@ assets/
 ```
 index.html (nova versão)
 assets/
-  - index-DDUX6Zw0.js (código CORRIGIDO - 286 KB)
+  - index-DS34wBzr.js (código CORRIGIDO - 287 KB)
   - index-BinwZ6zZ.css (novo CSS - 10.7 KB)
-  - favicon-CaZstnN0.png
+  - favicon-CaZstnN0-CaZstnN0.png
 ```
 
 ## 📦 ARQUIVOS PARA ENVIAR À HOSTINGER
@@ -76,9 +76,9 @@ Você precisa fazer upload destes arquivos **NOVOS** para substituir os antigos:
 ```
 ✅ index.html (NOVO - substituir o antigo)
 ✅ assets/ (NOVA PASTA - substituir a antiga)
-    └── index-DDUX6Zw0.js
+    └── index-DS34wBzr.js
     └── index-BinwZ6zZ.css
-    └── favicon-CaZstnN0.png
+    └── favicon-CaZstnN0-CaZstnN0.png
 ```
 
 ### ✅ Mantenha estes arquivos (não mexer):
