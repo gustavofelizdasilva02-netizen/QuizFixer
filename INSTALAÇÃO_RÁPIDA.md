@@ -22,9 +22,9 @@ Agora você tem uma versão completamente nova do quiz que:
 ├── 🆕 index.html              (SUBSTITUIR o antigo)
 │
 ├── 🆕 assets/                 (SUBSTITUIR a pasta antiga)
-│   ├── index-DDUX6Zw0.js
+│   ├── index-DS34wBzr.js
 │   ├── index-BinwZ6zZ.css
-│   └── favicon-CaZstnN0.png
+│   └── favicon-CaZstnN0-CaZstnN0.png
 │
 ├── ✅ logo-naipers.png         (manter o que já tem)
 │
